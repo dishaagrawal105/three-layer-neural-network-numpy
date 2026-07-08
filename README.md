@@ -1,11 +1,9 @@
 # 3-Layer Neural Network from Scratch (NumPy)
 
 ## Overview
-
 This project implements a **3-layer Neural Network** using only **NumPy**, without using Keras or PyTorch.
 
 ## Features
-
 - Pure NumPy implementation
 - Forward Propagation
 - Backpropagation
