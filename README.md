@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project implements a 3-layer Neural Network using only NumPy without using Keras or PyTorch.
+This project implements a **3-layer Neural Network** using only **NumPy**, without using Keras or PyTorch.
 
 ## Features
 
@@ -46,6 +46,11 @@ python three_layer_nn.py
 ## Output
 
 The project generates:
+
 - Training Loss graph
 - Decision Boundary plot
 - Training Accuracy
+
+### Training Results
+
+![Training Results](nn_results.png)
