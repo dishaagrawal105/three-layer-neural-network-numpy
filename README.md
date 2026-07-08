@@ -51,4 +51,4 @@ The project generates:
 
 ### Training Results
 
-![Training Results](nn_results.png)
+![Training Results](nn_results_v2.png)
