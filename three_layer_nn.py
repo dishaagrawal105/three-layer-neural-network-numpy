@@ -1,3 +1,12 @@
+"""
+3-Layer Neural Network from Scratch using NumPy
+
+Author: Disha Agrawal
+University: SRM Institute of Science and Technology (SRMIST)
+
+Description:
+This project implements a 3-layer neural network using only NumPy without using Keras or PyTorch.
+"""
 import numpy as np
 import matplotlib.pyplot as plt
 
