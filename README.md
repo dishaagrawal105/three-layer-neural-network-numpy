@@ -31,13 +31,13 @@ requirements.txt
 - NumPy
 - Matplotlib
 
-Install dependencies:
+## Installation
 
 ```bash
 pip install -r requirements.txt
 ```
 
-Run:
+## Run the Project
 
 ```bash
 python three_layer_nn.py
@@ -45,8 +45,7 @@ python three_layer_nn.py
 
 ## Output
 
-The program generates:
-
-- Training Loss Graph
-- Decision Boundary Plot
+The project generates:
+- Training Loss graph
+- Decision Boundary plot
 - Training Accuracy
